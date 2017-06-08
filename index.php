@@ -9,7 +9,7 @@
     <div style="max-width: 50%; text-align: center">
       <h1 style="font-size: 62px">Este dominio se alquila</h1>
       <br />
-      <p style="font-size: 36px">Si te interesa utilizar este dominio contacta a: <a href="mailto:alquilaundominio@gmail.com">alquilaundominio@gmail.com</a> </p>
+      <p style="font-size: 36px">Si te interesa utilizar este dominio contacta a: <a href="mailto:andres@alquilaundominio.com">andres@alquilaundominio.com</a> </p>
     </div>
   </body>
 </html>
